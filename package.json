@@ -1,0 +1,17 @@
+{
+  "name": "viber-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Ye Htut Win",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.7",
+    "viber-bot": "^1.0.16"
+  }
+}
